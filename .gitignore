@@ -31,4 +31,8 @@
 *.out
 *.app
 
+# vscode settings
 .vscode/*
+
+# test files
+/test.cpp
